@@ -1,5 +1,9 @@
 # Implement a Sudoku Solver From Scratch
 
+### Developed by: SREEVALSAN V
+### Reg No: 212223240158
+
+
 ## Aim
  To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
